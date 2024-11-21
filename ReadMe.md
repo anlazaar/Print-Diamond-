@@ -91,19 +91,6 @@ Functions
     abs:
         Returns the absolute value of a number.
 
-ASCII Art Inspiration
-
-
-    /\    
-   /  \   
-  /    \  
- /      \ 
-/        \
-\        /
- \      / 
-  \    /  
-   \  /   
-    \/    
 
 Author
 
